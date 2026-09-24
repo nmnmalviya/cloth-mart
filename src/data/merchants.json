@@ -1,0 +1,181 @@
+[
+  {
+    "id": "m1",
+    "name": "Urban Threads",
+    "tagline": "Streetwear · Casuals · Denim",
+    "rating": 4.3,
+    "reviews": 1240,
+    "deliveryTime": "2-3 days",
+    "area": "Connaught Place, Delhi",
+    "priceForTwo": "₹800 for two items",
+    "offer": "FLAT 20% OFF above ₹999",
+    "cover": "bg-gradient-to-br from-orange-400 to-pink-500",
+    "coverImage": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p1", "name": "Oversized Graphic Tee", "price": 799, "mrp": 1199, "category": "T-Shirts", "img": "bg-orange-200", "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=500&q=80", "desc": "100% cotton, relaxed fit, printed graphic.", "bestseller": true },
+      { "id": "p2", "name": "Cargo Joggers", "price": 1499, "mrp": 1999, "category": "Bottoms", "img": "bg-pink-200", "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=500&q=80", "desc": "Six-pocket cargo joggers, cotton blend." },
+      { "id": "p3", "name": "Denim Jacket", "price": 2299, "mrp": 2999, "category": "Jackets", "img": "bg-blue-200", "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=500&q=80", "desc": "Classic washed denim jacket." },
+      { "id": "p4", "name": "Bucket Hat", "price": 399, "mrp": 599, "category": "Accessories", "img": "bg-yellow-200", "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=500&q=80", "desc": "Cotton bucket hat, one size." }
+    ]
+  },
+  {
+    "id": "m2",
+    "name": "Ethnic Weave Co.",
+    "tagline": "Ethnic · Festive · Sarees",
+    "rating": 4.6,
+    "reviews": 3021,
+    "deliveryTime": "4-6 days",
+    "area": "Jaipur, Rajasthan",
+    "priceForTwo": "₹1,800 for two items",
+    "offer": "Buy 2 Get 1 Free on Kurtas",
+    "cover": "bg-gradient-to-br from-red-500 to-yellow-500",
+    "coverImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p5", "name": "Cotton Kurta", "price": 999, "mrp": 1499, "category": "Kurtas", "img": "bg-red-200", "image": "https://images.unsplash.com/photo-1597983073493-88cd35cf93b0?auto=format&fit=crop&w=500&q=80", "desc": "Handblock printed cotton kurta.", "bestseller": true },
+      { "id": "p6", "name": "Silk Saree", "price": 3499, "mrp": 4999, "category": "Sarees", "img": "bg-yellow-300", "image": "https://images.unsplash.com/photo-1610189020544-1b2bf2910558?auto=format&fit=crop&w=500&q=80", "desc": "Pure silk saree with zari border." },
+      { "id": "p7", "name": "Nehru Jacket", "price": 1799, "mrp": 2399, "category": "Jackets", "img": "bg-red-300", "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=500&q=80", "desc": "Festive nehru jacket, silk blend." }
+    ]
+  },
+  {
+    "id": "m3",
+    "name": "FormalFit Studio",
+    "tagline": "Formal · Officewear · Suits",
+    "rating": 4.1,
+    "reviews": 876,
+    "deliveryTime": "3-5 days",
+    "area": "Bandra, Mumbai",
+    "priceForTwo": "₹2,500 for two items",
+    "offer": "10% OFF on orders above ₹2000",
+    "cover": "bg-gradient-to-br from-slate-600 to-slate-800",
+    "coverImage": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p8", "name": "Slim Fit Blazer", "price": 3999, "mrp": 5499, "category": "Blazers", "img": "bg-slate-200", "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=500&q=80", "desc": "Tailored slim fit blazer, poly-viscose.", "bestseller": true },
+      { "id": "p9", "name": "Formal Shirt", "price": 1099, "mrp": 1499, "category": "Shirts", "img": "bg-slate-300", "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=500&q=80", "desc": "Wrinkle-resistant cotton formal shirt." },
+      { "id": "p10", "name": "Chino Trousers", "price": 1299, "mrp": 1799, "category": "Bottoms", "img": "bg-gray-300", "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=500&q=80", "desc": "Slim tapered chino trousers." }
+    ]
+  },
+  {
+    "id": "m4",
+    "name": "Little Sprouts Kidswear",
+    "tagline": "Kids Fashion · 2-10 yrs",
+    "rating": 4.5,
+    "reviews": 512,
+    "deliveryTime": "3-4 days",
+    "area": "Koramangala, Bengaluru",
+    "priceForTwo": "₹600 for two items",
+    "offer": "Free delivery above ₹499",
+    "cover": "bg-gradient-to-br from-teal-400 to-emerald-500",
+    "coverImage": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p11", "name": "Dino Print Tee", "price": 449, "mrp": 699, "category": "T-Shirts", "img": "bg-teal-200", "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=500&q=80", "desc": "Soft cotton tee with dino print.", "bestseller": true },
+      { "id": "p12", "name": "Denim Dungaree", "price": 899, "mrp": 1299, "category": "Dungarees", "img": "bg-emerald-200", "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?auto=format&fit=crop&w=500&q=80", "desc": "Comfortable denim dungaree set." }
+    ]
+  },
+  {
+    "id": "m5",
+    "name": "Athleisure Hub",
+    "tagline": "Sportswear · Gymwear · Yoga",
+    "rating": 4.4,
+    "reviews": 1988,
+    "deliveryTime": "2-4 days",
+    "area": "Andheri, Mumbai",
+    "priceForTwo": "₹1,200 for two items",
+    "offer": "FLAT 15% OFF for new users",
+    "cover": "bg-gradient-to-br from-indigo-500 to-purple-600",
+    "coverImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p13", "name": "Training Track Pants", "price": 1199, "mrp": 1599, "category": "Bottoms", "img": "bg-indigo-200", "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80", "desc": "4-way stretch training track pants.", "bestseller": true },
+      { "id": "p14", "name": "Compression Tee", "price": 699, "mrp": 999, "category": "T-Shirts", "img": "bg-purple-200", "image": "https://images.unsplash.com/photo-1518459031867-a89b944bffe4?auto=format&fit=crop&w=500&q=80", "desc": "Moisture-wicking compression tee." },
+      { "id": "p15", "name": "Yoga Leggings", "price": 899, "mrp": 1299, "category": "Bottoms", "img": "bg-violet-200", "image": "https://images.unsplash.com/photo-1506629905607-d405d7d3b0d2?auto=format&fit=crop&w=500&q=80", "desc": "High-waist yoga leggings, squat-proof." }
+    ]
+  },
+  {
+    "id": "m6",
+    "name": "Winter Vault",
+    "tagline": "Winterwear · Jackets · Sweaters",
+    "rating": 4.2,
+    "reviews": 640,
+    "deliveryTime": "3-5 days",
+    "area": "Dehradun, Uttarakhand",
+    "priceForTwo": "₹2,000 for two items",
+    "offer": "Season sale — up to 40% OFF",
+    "cover": "bg-gradient-to-br from-cyan-500 to-blue-700",
+    "coverImage": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p16", "name": "Puffer Jacket", "price": 2799, "mrp": 3999, "category": "Jackets", "img": "bg-cyan-200", "image": "https://images.unsplash.com/photo-1548883354-94bcfe321cbb?auto=format&fit=crop&w=500&q=80", "desc": "Lightweight insulated puffer jacket.", "bestseller": true },
+      { "id": "p17", "name": "Wool Sweater", "price": 1499, "mrp": 2199, "category": "Sweaters", "img": "bg-blue-200", "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=500&q=80", "desc": "Merino wool blend crew-neck sweater." }
+    ]
+  },
+  {
+    "id": "m7",
+    "name": "Sneaker Street",
+    "tagline": "Sneakers · Slides · Street Drops",
+    "rating": 4.7,
+    "reviews": 2218,
+    "deliveryTime": "1-2 days",
+    "area": "Lajpat Nagar, Delhi",
+    "priceForTwo": "₹2,200 for two items",
+    "offer": "Extra ₹300 OFF on sneakers",
+    "cover": "bg-gradient-to-br from-zinc-700 to-red-600",
+    "coverImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p18", "name": "Chunky Runner Sneakers", "price": 2499, "mrp": 3499, "category": "Shoes", "img": "bg-red-200", "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=500&q=80", "desc": "Cushioned street sneakers with bold sole.", "bestseller": true },
+      { "id": "p19", "name": "Everyday White Sneakers", "price": 1999, "mrp": 2799, "category": "Shoes", "img": "bg-gray-200", "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=500&q=80", "desc": "Clean white lace-up sneakers for daily wear." },
+      { "id": "p20", "name": "Comfort Slides", "price": 799, "mrp": 1199, "category": "Shoes", "img": "bg-zinc-200", "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=500&q=80", "desc": "Soft footbed slides for casual days." }
+    ]
+  },
+  {
+    "id": "m8",
+    "name": "Luxe Layer",
+    "tagline": "Premium · Partywear · Dresses",
+    "rating": 4.8,
+    "reviews": 1754,
+    "deliveryTime": "2-3 days",
+    "area": "MG Road, Bengaluru",
+    "priceForTwo": "₹3,000 for two items",
+    "offer": "Party edit up to 35% OFF",
+    "cover": "bg-gradient-to-br from-fuchsia-500 to-rose-700",
+    "coverImage": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p21", "name": "Satin Midi Dress", "price": 2199, "mrp": 3299, "category": "Dresses", "img": "bg-rose-200", "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=500&q=80", "desc": "Elegant satin midi dress with soft drape.", "bestseller": true },
+      { "id": "p22", "name": "Sequin Party Top", "price": 1499, "mrp": 2299, "category": "Tops", "img": "bg-fuchsia-200", "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=500&q=80", "desc": "Statement sequin top for evening plans." },
+      { "id": "p23", "name": "Wide Leg Trousers", "price": 1799, "mrp": 2499, "category": "Bottoms", "img": "bg-pink-200", "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=500&q=80", "desc": "Flowy wide leg trousers with premium finish." }
+    ]
+  },
+  {
+    "id": "m9",
+    "name": "Daily Basics",
+    "tagline": "Essentials · Innerwear · Basics",
+    "rating": 4.0,
+    "reviews": 932,
+    "deliveryTime": "Same day",
+    "area": "Palasia, Indore",
+    "priceForTwo": "₹700 for two items",
+    "offer": "3 basics at ₹999",
+    "cover": "bg-gradient-to-br from-sky-500 to-indigo-700",
+    "coverImage": "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p24", "name": "Solid Crew Tee Pack", "price": 999, "mrp": 1499, "category": "T-Shirts", "img": "bg-sky-200", "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=500&q=80", "desc": "Pack of three breathable solid tees.", "bestseller": true },
+      { "id": "p25", "name": "Cotton Lounge Shorts", "price": 599, "mrp": 899, "category": "Bottoms", "img": "bg-indigo-200", "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=500&q=80", "desc": "Soft cotton lounge shorts with pockets." },
+      { "id": "p26", "name": "No Show Socks Pack", "price": 349, "mrp": 599, "category": "Accessories", "img": "bg-slate-200", "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?auto=format&fit=crop&w=500&q=80", "desc": "Pack of five stretch no-show socks." }
+    ]
+  },
+  {
+    "id": "m10",
+    "name": "Bag Bar",
+    "tagline": "Bags · Wallets · Travel Gear",
+    "rating": 4.4,
+    "reviews": 1186,
+    "deliveryTime": "2-4 days",
+    "area": "Civil Lines, Jaipur",
+    "priceForTwo": "₹1,500 for two items",
+    "offer": "Free wallet on bags above ₹1999",
+    "cover": "bg-gradient-to-br from-amber-600 to-stone-800",
+    "coverImage": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      { "id": "p27", "name": "Classic Tote Bag", "price": 1299, "mrp": 1899, "category": "Accessories", "img": "bg-amber-200", "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=500&q=80", "desc": "Roomy tote bag with structured handles.", "bestseller": true },
+      { "id": "p28", "name": "Travel Backpack", "price": 2299, "mrp": 3199, "category": "Accessories", "img": "bg-stone-200", "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=500&q=80", "desc": "Water-resistant backpack with laptop sleeve." },
+      { "id": "p29", "name": "Slim Wallet", "price": 699, "mrp": 999, "category": "Accessories", "img": "bg-yellow-200", "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=500&q=80", "desc": "Slim bi-fold wallet with card slots." }
+    ]
+  }
+]
